@@ -32,7 +32,7 @@ Open editor and code.
 HTML:
 
 ```sh
-website,html
+website.html
 ```
 
 CSS:
